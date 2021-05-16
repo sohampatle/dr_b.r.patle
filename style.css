@@ -1,0 +1,64 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+section{
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+header{
+    text-align: center;
+    background-color: coral;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    color: white;
+    font-weight: bold;
+    height: 40px;
+    padding-top: 10px;
+  
+  }
+
+ .main_nav {
+    background-color: #333;
+    color: #fff;
+
+}
+.main_nav ul{
+padding: 0;
+list-style: none;
+float: center ;
+
+}
+.main_nav li{
+    display: inline;
+    padding-top: 20px;
+
+}
+.main_nav a{
+    color: #fff;
+    text-decoration: none;
+    font-size: 28px;
+    padding-left: 15px;
+    border-left: 2px solid white;
+}
+section p{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.5em;
+
+}
+.showcase h1{
+    background-image: url(/images/coealimage.jpg);
+    background-position: top right;
+    background-repeat: no-repeat;
+    min-height: 100px;
+    margin: 0px;
+    margin-bottom: 30px;
+    text-align: center;
+    color: #fff;
+    font-size: 50px;
+    line-height: 1.6em;
+    padding-top: 30px;
+    width: 100%;
+}
